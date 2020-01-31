@@ -1,0 +1,100 @@
+id: ea1d093d05d84990a6680032bd014f82
+annotation_type: chapter_title
+revision: '00001'
+annotations:
+- id: 97d845b569b54336933fd16d886b97af
+  span:
+    start: 45
+    end: 121
+- id: f4ce080155c04452b0119cff6672b811
+  span:
+    start: 49316
+    end: 49328
+- id: cec7576064704245a461f78c7b8afb13
+  span:
+    start: 158289
+    end: 158302
+- id: fee5141578634008b26ed895ea6e8096
+  span:
+    start: 167617
+    end: 167630
+- id: f222c26cca084f0abf18200f0bdfbefd
+  span:
+    start: 178235
+    end: 178247
+- id: 69b310b6c1f44d1e9e847e703466b63a
+  span:
+    start: 198202
+    end: 198213
+- id: c69b2736a53d48edaa362bd84d8876c1
+  span:
+    start: 203554
+    end: 203567
+- id: 3583e0d861e9496b96f91a6735b09775
+  span:
+    start: 208444
+    end: 208457
+- id: b805e9d5d4364fddbfbe6ceefb5ca829
+  span:
+    start: 228070
+    end: 228084
+- id: 728ff018e4b44706bfac06d486fbf36d
+  span:
+    start: 236408
+    end: 236420
+- id: 63db8e5bc0b9430bb29d5ef4b86762a5
+  span:
+    start: 254731
+    end: 254743
+- id: 1f0f985be8a94530b14e55ab2cb2d212
+  span:
+    start: 258849
+    end: 258866
+- id: 12ddd403528348d3b64a8b0207305fe9
+  span:
+    start: 270854
+    end: 270871
+- id: e11298d92ad64d969896eee58deade60
+  span:
+    start: 284013
+    end: 284030
+- id: e2e5770e66194dba9e3c3d3dfb127e8f
+  span:
+    start: 302541
+    end: 302557
+- id: f5bd6646d5e04a2390e6d2262ab4d58d
+  span:
+    start: 306724
+    end: 306739
+- id: 6d161ac237b1499b8a189681b241faba
+  span:
+    start: 309465
+    end: 309482
+- id: a69b5ea886f84b239ebb73f4aa313a7c
+  span:
+    start: 321562
+    end: 321579
+- id: 1309c1524d4441b9b7583a3906169375
+  span:
+    start: 323436
+    end: 323454
+- id: c6323060cb4f4b80af1e550d22ffa09e
+  span:
+    start: 324146
+    end: 324162
+- id: 1ef52fa96bba49c38789809e6d9596cd
+  span:
+    start: 371733
+    end: 371747
+- id: f59be3d6c1004886ad8e78ac13c172d8
+  span:
+    start: 375686
+    end: 375705
+- id: d7d86670674f4299bdbd6b2c30afd4ae
+  span:
+    start: 376617
+    end: 376636
+- id: 5300da0f90344b2a93b26d2a3ff8a729
+  span:
+    start: 382661
+    end: 382709
