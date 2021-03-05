@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000226
+initial_creation_type: ebook
+source_metadata:
   title: དཀོན་ཅོག་འགྲེལ། །
   authors:
   - མཛད་པ་པོ། རོང་ཟོམ་ཆོས་བཟང།
-  sku: SHE-010-1
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: SHE-010-1
 web_metadata:
   title:
     en: The Precious Jewel:A Commentary on the Secret Essence of Tantra
